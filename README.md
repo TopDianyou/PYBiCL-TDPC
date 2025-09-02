@@ -1,4 +1,6 @@
 Hysteretic Temporal Damage Prediction Network for Semi-Rigid PC Joints
+
+
 This repository provides an implementation of a deep learning-based approach for predicting hysteretic temporal damage in semi-rigid precast concrete (PC) joints under earthquake scenarios using single-source image sequences.
 
 Overview
